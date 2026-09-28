@@ -75,35 +75,35 @@ Designed 5 dashboard pages, each built around one specific business question rat
 ### Page 1: Executive Overview
 *Answers: Is marketing working overall?*
 
-`[Insert screenshot here]`
+![Executive Overview](Executive%20Overview.png)
 
 KPI cards (Total Spend, Total Revenue, ROAS, ROI, Net Profit/Loss), a dynamic verdict banner, Revenue vs Spend trend, and headline callouts (top campaign, worst zero-revenue campaign, best channel, % budget in Acquisition).
 
 ### Page 2: Channel & Campaign Performance
 *Answers: Which campaigns/channels are worth funding?*
 
-`[Insert screenshot here]`
+![Channel & Campaign Performance](Channel%20%26%20Campaign%20Performance.png)
 
 Full campaign table ranked by ROAS with CAC, ROI, and a status icon, plus CAC and ROAS comparisons by campaign.
 
 ### Page 3: Funnel Analysis
 *Answers: Where is funnel leakage happening?*
 
-`[Insert screenshot here]`
+![Funnel Analysis](Funnel%20Analysis.png)
 
 Impressions → Clicks → Visits → Cart → Purchase funnel visual, with CTR and conversion breakdowns by channel and device.
 
 ### Page 4: Customer & Repeat Behavior
 *Answers: Does conversion translate into loyal customers?*
 
-`[Insert screenshot here]`
+![Customer & Repeat Behaviour](Customer%20%26%20Repeat%20Behaviour.png)
 
 Repeat Purchase Rate by campaign, and New vs Existing customer conversion comparison.
 
 ### Page 5: Discounts & Segment Deep Dive
 *Answers: Are discounts helping or hurting, and who converts best?*
 
-`[Insert screenshot here]`
+![Discount & Segment Deep Dive](Discount%20%26%20Segment%20Deep%20Dive.png)
 
 Discounted vs non-discounted conversion rate and AOV, plus conversion rate by region and age group.
 
@@ -127,5 +127,6 @@ Reallocate budget away from underperforming paid Acquisition channels (Facebook,
 ## Author
 
 **Olumide David Faleye**
-Data Analyst / BI Analyst — Aba, Abia State, Nigeria
+Data Analyst / BI Analyst — Nigeria
 GitHub: [github.com/Olumidave](https://github.com/Olumidave)
+Report Link: https://app.powerbi.com/groups/me/reports/99464ea7-97c6-4612-851b-b6d195880519/e07652d59480d14054cc?experience=power-bi&clientSideAuth=0
